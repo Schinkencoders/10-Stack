@@ -1,0 +1,11 @@
+Hallo!
+Danke für das Downloaden dieses Spiels!
+
+Um es zu starten führen sie "Kartenspiel.jar" aus!
+
+Sollten sie Dateien im "rsc"-Ordner ändern oder löschen, wird das Spiel wahrscheinlich unbrauchbar!
+
+Webseite: schinkencoders.de
+Instagram: @schinkencoders
+
+©schinkencoders
